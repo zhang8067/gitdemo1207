@@ -8,4 +8,5 @@ public class zhang {
     public static void main(String[] args) {
         System.out.println("zhang");
     }
+private String a;
 }
